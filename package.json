@@ -11,9 +11,9 @@
   "devDependencies": {
   },
   "keywords": [
-    "ember-addon"
+    "angular-addon"
   ],
-  "ember-addon": {
+  "angular-addon": {
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
